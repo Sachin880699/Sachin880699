@@ -1,35 +1,28 @@
-
 <!--
-**Sachin880699/Sachin880699** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+**dmoyadev/dmoyadev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
+<img src="/img/header-logo.svg">
+
+<h2>
+    Well, hello! 👋🏻 I Am Sachin Pawar <img align="right" src="https://gpvc.arturio.dev/dmoyadev" alt="Profile views">
+</h2>
+
+💼&nbsp;&nbsp;&nbsp;Web Developer at <a href="https://www.fideltech.com">Fidel Tech LTD</a>&nbsp;
+
+🌱&nbsp;&nbsp;&nbsp;I’m currently using and mastering **Python , Django , Rest API , Bootstrap , Javascript , Ajax , AWS**
+
+📫&nbsp;&nbsp;&nbsp;Email me at sachin.pawar7802@gmail.com
+
+<img src="https://as2.ftcdn.net/v2/jpg/03/96/56/19/1000_F_396561934_t1OwjMZHrVY211bHA5uUEAix0F1SyLci.jpg" height="20px" width="20px" > &nbsp;&nbsp;Email me at <a href="https://www.linkedin.com/in/sachin-pawar-python-django/"> Click Here </a>
 
 
- <svg width="100" height="100" xmlns="http://www.w3.org/2000/svg">
-<foreignObject width="100" height="100">
-    <div >
-        <ul>
-          <h1 ><strong> Hello :pray:, I Am Sachin Pawar</strong> ,Python Django Developer</h1>
-          <h6>Contact : sachin.pawar7802@gmail.com </h6> 
-          <h6>Linkedin: <a href="https://www.linkedin.com/in/sachin-pawar-python-django/">Click Here</1> </h6>
-          <hr>
-      <h1>Skills</h1>
-          <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvUTEM-qHsacg4gHp_0ACwbT0fiKvIxt2xoIWtz8s&s](https://icons8.com/icon/13441/python">
-           <img src="https://icons8.com/icon/108784/javascript">
-        </ul>
-      
-      
-   
-</foreignObject>
-</svg>
+
+[![My Skills](https://skillicons.dev/icons?i=python,django,aws,javascript,bootstrap,jquery,git,mysql,postgres,react)](https://skillicons.dev)
+
+<h3 align="center">
+    ⬇⬇ Check my pinned projects below ⬇⬇
+</h3>
+<p align="center">
+    <i>Please take into account they are WIP!<i>
+</p>
