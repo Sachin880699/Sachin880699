@@ -2,7 +2,7 @@
 **dmoyadev/dmoyadev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-<img src="https://assets.hongkiat.com/uploads/programming-jokes/joke-developer-problems.jpg" width="100%" height="350px">
+<img src="https://assets.hongkiat.com/uploads/programming-jokes/joke--comic_sleep-pos.jpg" width="100%" height="350px">
 
 <h2>
     Well, hello! 👋🏻 I Am Sachin Pawar <img align="right" src="https://gpvc.arturio.dev/dmoyadev" alt="Profile views">
