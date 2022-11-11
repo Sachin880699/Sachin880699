@@ -20,7 +20,7 @@
 
 
 
-[![My Skills](https://skillicons.dev/icons?i=python,django,aws,javascript,bootstrap,jquery,git,mysql,postgres,react)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,django,aws,javascript,bootstrap,jquery,git,linux,mysql,postgres,react,arduino,firebase,gitlab,sqlite,vscode,linkedin)](https://skillicons.dev)
 
 <h3 align="center">
     ⬇⬇ Check my pinned projects below ⬇⬇
