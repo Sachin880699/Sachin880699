@@ -14,6 +14,8 @@
 
 📫&nbsp;&nbsp;&nbsp;Email me at sachin.pawar7802@gmail.com
 
+📫&nbsp;&nbsp;&nbsp;Resume  at <a href="">Click Here </a>
+
 <img src="https://as2.ftcdn.net/v2/jpg/03/96/56/19/1000_F_396561934_t1OwjMZHrVY211bHA5uUEAix0F1SyLci.jpg" height="20px" width="20px" > &nbsp;&nbsp;Email me at <a href="https://www.linkedin.com/in/sachin-pawar-python-django/"> Click Here </a>
 
 
