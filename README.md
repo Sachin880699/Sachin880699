@@ -9,7 +9,7 @@
     Well, hello! 👋🏻 I Am Sachin Pawar <img align="right" src="https://gpvc.arturio.dev/dmoyadev" alt="Profile views">
 </h2>
 
-💼&nbsp;&nbsp;&nbsp;Web Developer at <a href="http://harbingergroup.onelogin.com">Harbinger Group</a>&nbsp;
+💼&nbsp;&nbsp;&nbsp;Web Developer 
 
 🌱&nbsp;&nbsp;&nbsp;I’m currently using and mastering **Python , Django , Rest API , Bootstrap , Javascript , Ajax , AWS**
 
